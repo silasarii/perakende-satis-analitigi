@@ -1,0 +1,1 @@
+Veri setleri bu klasördedir.
