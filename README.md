@@ -1,4 +1,4 @@
-# 📊 Perakende Satış & Kârlılık Performans Paneli
+# Perakende Satış ve Performans Paneli
 
 Bu proje, perakende sektöründeki satış dinamiklerini, kârlılığı, bölgesel performans farklılıklarını ve ürün kategorilerini analiz etmek amacıyla Power BI ile uçtan uca geliştirilmiş etkileşimli bir analitik panelidir.
 
@@ -48,8 +48,27 @@ Bu proje, perakende sektöründeki satış dinamiklerini, kârlılığı, bölge
 
 ---
 
-## 📁 Proje Dosya Yapısı
+## Kullanılan Teknolojiler
+* **İş Zekası & Görselleştirme:** Microsoft Power BI Desktop
+* **Veri Hazırlığı & Modelleme:** Power Query, DAX
+* **Veri Kaynakları:** Microsoft Excel (.xlsx)
+---
 
-* `/data`: Ham ve temizlenmiş veri setleri
-* `dashboard.png`: Dashboard'un görsel önizlemesi
-* `*.pbix`: Power BI çalışma dosyası
+## Proje Yapısı
+
+```text
+├── assets/
+│   └── dashboard.png           
+├── data/
+│   ├── satislar.xlsx                  
+│   └── urunler.xlsx                    
+├── perakende_satis_paneli.pbix          
+└── README.md
+```
+<div align="center">
+
+### 👤 Sıla Sarı
+🎓 **Dokuz Eylül Üniversitesi - Ekonometri**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sıla-sarı)
+
